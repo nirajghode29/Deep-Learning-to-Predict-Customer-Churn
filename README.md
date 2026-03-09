@@ -10,6 +10,7 @@ The notebook walks through the complete machine learning workflow:
 - training a neural network using TensorFlow/Keras
 - evaluating results using accuracy, confusion matrix, precision, recall, and F1-score
 - Using dropout regularization to improve accuracy accuracy, confusion matrix, precision, recall, and F1-score.
+- Used Oversampling, Undersampling, and SMOTE technique to correct the imbalance for the dataset.
 
 ## What this project is trying to do
 The main goal is to create a classification model that can help a business identify:
