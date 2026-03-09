@@ -9,6 +9,7 @@ The notebook walks through the complete machine learning workflow:
 - splitting the data into training and testing sets
 - training a neural network using TensorFlow/Keras
 - evaluating results using accuracy, confusion matrix, precision, recall, and F1-score
+- Using dropout regularization to improve accuracy accuracy, confusion matrix, precision, recall, and F1-score.
 
 ## What this project is trying to do
 The main goal is to create a classification model that can help a business identify:
